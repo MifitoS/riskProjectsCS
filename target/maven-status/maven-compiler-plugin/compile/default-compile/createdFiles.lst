@@ -1,0 +1,8 @@
+ru\sberClient\client\Client.class
+ru\sberClient\client\Process.class
+ru\sberServer\controller\ServerController.class
+ru\sberServer\model\Client$ClientBuilder.class
+ru\sberClient\responseThread\SaveResponse$SaveResponseBuilder.class
+ru\sberServer\model\Client.class
+ru\sberClient\responseThread\SaveResponse.class
+ru\sberServer\SberServer.class
